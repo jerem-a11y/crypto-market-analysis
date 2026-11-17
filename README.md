@@ -49,3 +49,18 @@ AI/ML Engineer | Data Science & Machine Learning
 ## Disclaimer
 
 This project is for educational and analytical purposes only. It does not constitute financial advice.
+
+### 1. Cryptocurrency Price Comparison
+![Price Comparison](images/price_comparison.png)
+
+### 2. Daily Returns
+![Daily Returns](images/daily_returns.png)
+
+### 3. Sharpe Ratio
+![Sharpe Ratio](images/sharpe_ratio.png)
+
+### 4. Maximum Drawdown
+![Maximum Drawdown](images/maximum_drawdown.png)
+
+### 5. Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
